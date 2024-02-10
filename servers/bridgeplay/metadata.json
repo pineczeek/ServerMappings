@@ -1,0 +1,6 @@
+{
+    "id": "bridgeplay",
+    "name": "bridgeplay",
+    "description": "Server for fastbridge and pvp training",
+    "addresses": ["bridgeplay.pl"]
+}
